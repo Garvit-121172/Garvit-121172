@@ -1,5 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<img align="center" src="https://github.com/Garvit-121172/Garvit-121172/blob/master/octocat_github.gif" height="300px" width="30%">
 <h1 align="center">Heyyyy <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Programmer, This is Garvit🔥🔥 this side.</h1>
 <h3 align="center">I'm an avid Backend-Devloper diving deep into the ocean of Open Source.I love to collaborate and work collectivley on new projects.</h3>
 
